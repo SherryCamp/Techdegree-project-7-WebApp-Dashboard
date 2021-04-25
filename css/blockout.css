@@ -1,0 +1,49 @@
+/* color blocks */
+/* .grid-wrapper{
+    background-color: cornflowerblue;
+
+} */
+
+/* header {
+    background-color: darkred;
+} */
+/* .nav{
+    background-color: darkorchid;
+} */
+.main-header {
+    background-color: lightgrey;
+}
+.alert{
+    
+    background-color:  rgb(116, 119, 191);
+}
+
+.traffic {
+    background-color: white;
+}
+.daily{
+     background-color: mediumseagreen; 
+}
+
+.mobile-users {
+   background-color: gold;
+}
+
+.social-stats{
+    background-color:gray;
+}
+.new-members {
+    background-color: greenyellow;
+}
+
+.recent-activity {
+    background-color: hotpink;
+}
+
+.message-user {
+    background-color: indianred;
+}
+
+.settings {
+    background-color: lightblue;
+} 

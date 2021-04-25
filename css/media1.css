@@ -1,0 +1,48 @@
+
+
+
+@media (min-width: 768px){
+.grid-wrapper {
+    grid-template-columns:55px 1fr;
+    grid-template-areas:
+     "header header"
+     "nav main";
+}
+.main {
+    
+    grid-template-columns: 1fr;
+}
+
+.traffic, .social {
+    grid-column: 1 / span 2;
+}
+
+.daily,  .activity, .settings {
+    grid-column: 2 / span 1;
+}
+.widget-container-full {
+    width: 90vw;
+}
+ .widget-container-half {
+     width: 45vw;
+ }
+}
+
+nav  {
+    display: inline;
+    
+  
+}
+
+
+.nav-img{
+   
+  width: 35px;
+  height:40px;
+  margin: 1px;
+  margin-top: 20px;
+
+  
+    
+    
+    }
